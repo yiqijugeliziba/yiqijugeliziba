@@ -1,4 +1,5 @@
 【版本名】1.0【版本名】
 【版本】20190721【版本】
-【内容】1.修复解析地址2.更新UI【内容】
+【内容】1.修复解析地址
+2.更新UI【内容】
 【链接】https://yiqijugeliziba.github.io/yiqijugeliziba/yiqijugeliziba.apk【链接】
