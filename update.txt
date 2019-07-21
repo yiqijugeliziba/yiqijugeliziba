@@ -2,8 +2,8 @@
 【版本】2【版本】
 【内容】
 【更新日志】
- 1.修复解析地址
- 2.更新UI
+  1.修复解析地址
+  2.更新UI
 【内容】
 【链接】
 https://yiqijugeliziba.github.io/yiqijugeliziba/yiqijugeliziba.apk
